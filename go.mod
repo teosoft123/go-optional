@@ -1,4 +1,4 @@
-module github.com/moznion/go-optional
+module github.com/teosoft123/go-optional
 
 go 1.18
 
